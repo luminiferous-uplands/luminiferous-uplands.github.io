@@ -1,3 +1,3 @@
-# luminiferous-uplands
-Lightweight skylands dimension mod, inspired by the Aether mods
-This branch is the site
+# The Luminiferous Uplands
+
+This is the GitHub pages branch. See [the site](https://luminiferous-uplands.github.io/).
